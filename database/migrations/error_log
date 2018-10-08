@@ -1,0 +1,2 @@
+[02-May-2018 12:43:00 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/ayzangroup/public_html/developer/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[02-May-2018 12:54:21 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/ayzangroup/public_html/developer/database/migrations/2018_04_27_063912_create_user_password_resets_table.php on line 6

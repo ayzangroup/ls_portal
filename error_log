@@ -1,0 +1,9 @@
+[05-May-2018 04:06:21 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/ayzangroup/public_html/developer/app/Http/Controllers/Api/ProfileController.php on line 29
+[05-May-2018 04:07:19 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/ayzangroup/public_html/developer/app/Http/Controllers/Api/ProfileController.php on line 29
+[05-May-2018 04:07:33 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/ayzangroup/public_html/developer/app/Http/Controllers/Api/ProfileController.php on line 29
+[05-May-2018 04:08:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/ayzangroup/public_html/developer/app/Http/Controllers/Api/ProfileController.php on line 29
+[05-May-2018 04:09:21 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/ayzangroup/public_html/developer/app/Http/Controllers/Api/ProfileController.php on line 29
+[20-Jun-2018 11:05:33 Asia/Kolkata] PHP Fatal error:  Cannot declare class CreateJobsTable, because the name is already in use in /home/ayzangroup/public_html/developer/database/migrations/2018_06_20_110526_create_jobs_table.php on line 38
+[20-Jun-2018 21:03:38 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ayzangroup/public_html/developer/vendor/symfony/process/Process.php on line 340
+[24-Jun-2018 16:39:58 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ayzangroup/public_html/developer/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 216
+[24-Jun-2018 17:21:54 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ayzangroup/public_html/developer/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 41

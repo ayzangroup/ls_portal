@@ -1,0 +1,120 @@
+#signup_new_model .modal-header,
+#login_failed_SignUp .modal-header,
+#login_failed_error  .modal-header{
+    position: relative;
+    text-align: left;
+    justify-content: flex-start;
+    padding: 20px 40px ;    
+    border-bottom: 1px solid #ddf0fd;
+}
+#signup_new_model .modal-header h5.modal-title,
+#login_failed_SignUp .modal-header h5.modal-title,
+#login_failed_error .modal-header h5.modal-title{
+    color: #333;
+    width: 100%
+
+}
+#login_failed_SignUp button.close,
+#login_failed_error button.close{
+    top: -3px;
+    left: 0;
+}
+#login_failed_SignUp p,
+#login_failed_error p{  
+    margin-bottom: 0;
+}
+#login_failed_SignUp .modal-footer{
+    width: 100%;
+    justify-content: space-evenly;
+    padding: 15px 40px;
+}
+#login_failed_SignUp .modal-footer  button{
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    background: #20c882;
+    color: #fff;
+    height: 40px;
+    border-radius: 50px;
+    -webkit-transition: all ease-in-out 0.3s;
+    -moz-transition: all ease-in-out 0.3s;
+    transition: all ease-in-out 0.3s;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: initial;
+    border: none;
+    width: 50%;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+#login_failed_SignUp .modal-footer  button:hover{
+    background: #1470b1;
+    color: #fff;
+} 
+#login_failed_SignUp .Login_failed_icon i.fa,
+#login_failed_error .Login_failed_icon i.fa{
+    color: #e01616;
+    margin-right: 10px;    
+}
+#signup_new_model .modal-body{
+    padding: 25px 40px 25px;
+}
+#signup_new_model input {
+    -webkit-appearance: none;
+    appearance: none;
+}
+#signup_new_model .form-check-label{
+    padding-left: 8%;
+    position: relative;
+}
+
+#signup_new_model p{
+    margin-bottom: 0;
+    margin-top: 10px;
+} 
+#signup_new_model .form-check {
+    margin-bottom: 0;
+    padding: 25px;
+    margin: 10px 0;
+    background-color: #ddf0fd;
+}
+#account-type-radio .form-check-inline .form-check-label::after,
+#signup_new_model .form-check-label::after
+{
+    content: '';
+    width: 14px;
+    height: 14px;
+    border: solid 1px #20c882;
+    border-radius: 50%;
+    position: absolute;
+    top: 4px;
+    left: 0;
+    text-align: center;
+}
+#account-type-radio .form-check-inline > input:checked + label::before,
+#signup_new_model .form-check > input:checked + label::before{
+    content: '';
+    font-size: 15px;
+    width: 8px;
+    height: 8px;
+    border: solid 1px #20c882;
+    border-radius: 50%;
+    position: absolute;
+    top: 7px;
+    left: 3px;
+    background-color:#20c882;
+    text-align: center;
+}
+#signup_new_model a {
+    color:#333;
+
+}
+#signup_new_model a:hover,
+#signup_new_model .form-check:hover {
+    background-color: #c1e3fb;
+}
+#signup_new_model .hash_tag{
+    font-size: 20px;
+    margin-right: 10px;
+}
